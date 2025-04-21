@@ -1,17 +1,13 @@
-# React + Vite
+Introducing My Jokes App! 😂
+I’m excited to share my latest project – a fun and interactive Jokes App, built with React! Here's a simple and clean interface where you can explore a wide variety of jokes to make your day a little brighter. 🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can check out the live version of the app here:
+https://jokes-website-one.vercel.app/
+Jokes App by Bansi
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-
-App looks like these..
-
-![image](https://github.com/user-attachments/assets/1407711b-817e-4a2f-8985-2f2f67dc2ea1)
+View jokes in different categories.
+Count of total jokes available.
+Simple, modern design for a smooth user experience.
+Built with React for a fast and responsive UI.
