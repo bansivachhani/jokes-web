@@ -18,5 +18,11 @@ Built with React for a fast and responsive UI.
 >>>>>>> 7100c45 (Initial commit)
 =======
 # jokes-web
+<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/3d87644c-7183-4354-9b5d-c6acff2ee31a)
 >>>>>>> 7f901b9 (Update README.md)
+=======
+
+![image](https://github.com/user-attachments/assets/86c677f6-c8b7-442a-a849-71bebc977260)
+
+>>>>>>> 81c520b (Update README.md)
