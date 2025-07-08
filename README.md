@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Introducing My Jokes App! 😂
 I’m excited to share my latest project – a fun and interactive Jokes App, built with React! Here's a simple and clean interface where you can explore a wide variety of jokes to make your day a little brighter. 🎉
 
@@ -15,3 +16,7 @@ Built with React for a fast and responsive UI.
 =======
 # jokes-web
 >>>>>>> 7100c45 (Initial commit)
+=======
+# jokes-web
+![image](https://github.com/user-attachments/assets/3d87644c-7183-4354-9b5d-c6acff2ee31a)
+>>>>>>> 7f901b9 (Update README.md)
